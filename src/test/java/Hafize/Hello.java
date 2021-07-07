@@ -1,8 +1,9 @@
-package day_1;
+package Hafize;
 
 public class Hello {
 
     public static void main(String[] args) {
+
         System.out.println("Hello");
     }
 }
