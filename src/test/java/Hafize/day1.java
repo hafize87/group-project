@@ -5,5 +5,6 @@ public class day1 {
 
         System.out.println("hi");
         System.out.println("ha");
+        System.out.println("git");
     }
 }
